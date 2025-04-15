@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome!+I am+Pin+Monyvichea+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=FF00F6&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Welcome!+I%20am+Pin+Monyvichea" width="auto" height="35" alt="Typing">
   </a>
 </div>
 
@@ -11,7 +11,7 @@
 
 <h3 align="center">Hoobies</h3>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=🎧Music,;👨🏻‍💻Design Websites,;🤝🏻IT+Support" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=FF00F6&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=%F0%9F%8E%A7Music,;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBDesign%20Websites,;%F0%9F%A4%9D%F0%9F%8F%BBIT+Support" width="auto" height="35" alt="Typing">
   </a>
 </div>
 
