@@ -21,6 +21,10 @@
     ![HTML](https://img.shields.io/badge/html-800080?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/css-800080?style=for-the-badge&logo=css3&logoColor=white)
     ![Javascript](https://img.shields.io/badge/javascript-800080?style=for-the-badge&logo=javascript&logoColor=white)
+    ![ReactJS](https://img.shields.io/badge/-ReactJs-800080?style=for-the-badge&logo=react&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-800080?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![WordPress](https://img.shields.io/badge/WordPress-800080?style=for-the-badge&logo=wordpress&logoColor=white)
+    ![Tailwind](https://img.shields.io/badge/tailwindcss-800080?style=for-the-badge&logo=tailwindcss&logoColor=white)
     ![Java](https://img.shields.io/badge/java-800080?style=for-the-badge&logo=openjdk&logoColor=white)
 <p>
 
@@ -28,6 +32,7 @@
     ![Git](https://img.shields.io/badge/git-800080?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-800080?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-800080?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+    ![Figma](https://img.shields.io/badge/figma-800080?style=for-the-badge&logo=figma&logoColor=white)
 <p>
 
   - #### IT Support:
