@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="http://pinmonyvicheaa.github.io" target="_blank">
-        <img src="https://github.com/pinmonyvicheaa/pinmonyvicheaa/blob/master/src/Lion-King.gif?raw=true" width="498" height="258" alt="GIF">
+        <img src="https://github.com/pinmonyvicheaa/pinmonyvicheaa/blob/master/src/cat-yay.gif?raw=true" width="150" height="150" alt="GIF">
     </a>
 </p>
 
