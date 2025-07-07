@@ -26,6 +26,8 @@
     ![WordPress](https://img.shields.io/badge/WordPress-800080?style=for-the-badge&logo=wordpress&logoColor=white)
     ![Tailwind](https://img.shields.io/badge/tailwindcss-800080?style=for-the-badge&logo=tailwindcss&logoColor=white)
     ![Java](https://img.shields.io/badge/java-800080?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-800080?style=for-the-badge&logo=php&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/Laravel-800080?style=for-the-badge&logo=laravel&logoColor=white)
 <p>
 
   - #### Software and Tools:
@@ -33,6 +35,8 @@
     ![GitHub](https://img.shields.io/badge/github-800080?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-800080?style=for-the-badge&logo=visualstudiocode&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-800080?style=for-the-badge&logo=figma&logoColor=white)
+    ![XAMPP](https://img.shields.io/badge/XAMPP-800080?style=for-the-badge&logo=xampp&logoColor=white)
+    ![Composer](https://img.shields.io/badge/Composer-800080?style=for-the-badge&logo=composer&logoColor=white)
 <p>
 
   - #### IT Support:
