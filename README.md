@@ -35,7 +35,7 @@
     ![Git](https://img.shields.io/badge/git-800080?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-800080?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-800080?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio-800080?style=flat&logo=android-studio&logoColor=white)
+    ![Android Studio](https://img.shields.io/badge/Android%20Studio-800080?style=for-the-badge&logo=android-studio&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-800080?style=for-the-badge&logo=figma&logoColor=white)
     ![XAMPP](https://img.shields.io/badge/XAMPP-800080?style=for-the-badge&logo=xampp&logoColor=white)
     ![Composer](https://img.shields.io/badge/Composer-800080?style=for-the-badge&logo=composer&logoColor=white)
